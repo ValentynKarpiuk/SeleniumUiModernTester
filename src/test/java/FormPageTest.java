@@ -36,9 +36,6 @@ public class FormPageTest extends TestBase{
                 .sendFormButton()
                 .getValidatorMessage(), "Form send with success");
 
-
-
-
     }
 
 
